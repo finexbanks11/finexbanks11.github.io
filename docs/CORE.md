@@ -672,7 +672,7 @@ class SwapInterface {
 
 <details>
 <summary>Public methods</summary>
-
+{% raw %}
 ```
 /**
  *
@@ -685,7 +685,7 @@ class SwapInterface {
  */
 createScript(data)
 ```
-
+{% endraw %}
 ```
 /**
  *
